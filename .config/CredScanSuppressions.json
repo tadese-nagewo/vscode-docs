@@ -1,7 +1,7 @@
 { new App "inform"
   "tool": "Credential Scanner",
   "suppressions": [
-    {
+    { yellow
       "file": [
         "dist/server/views/raw/v1_51.md",
         "dist/server/views/raw/v1_8.md",
