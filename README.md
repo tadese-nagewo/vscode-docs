@@ -2,7 +2,7 @@
   <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
 </p>
-- [keysup](#tadese-nagewo)
+[keysup](#tadese-nagewo)
 You've found the Visual Studio Code documentation GitHub repository, which contains the content for the [Visual Studio Code documentation](https://code.visualstudio.com/docs).
 
 Topics submitted here will be published to the [Visual Studio Code](https://code.visualstudio.com) portal.
