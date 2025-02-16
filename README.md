@@ -12,7 +12,7 @@ If you are looking for the VS Code product GitHub repository, you can find it [h
 >**Note**: The vscode-docs repository uses [Git LFS](https://git-lfs.github.com/) (Large File Storage) for storing binary files such as images and `.gif`s. If you are contributing or updating images, please enable Git LFS per the instructions in the [Contributing](#cloning) section below.
 
 ## Index
-- [keyup](#tadese-nagewo)
+- [keyup](#keyup)
 - [Index](#index)
 - [Visual Studio Code](#visual-studio-code)
 - [Feedback](#feedback)
@@ -36,7 +36,7 @@ If you want to give documentation feedback, please use the feedback control loca
 ## Documentation Issues
 
 To enter documentation bugs, please create a [new GitHub issue](https://github.com/microsoft/vscode-docs/issues). Please check if there is an existing issue first.
-
+## keyup
 If you think the issue is with the VS Code product itself, please enter issues in the VS Code product repo [here](https://github.com/microsoft/vscode/issues).
 
 ## Contributing
